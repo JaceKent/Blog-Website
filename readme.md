@@ -14,7 +14,8 @@ _Fun Blog Practice_
 * _to list setup instructions_
 * _in a simple_
 * _easy-to-understand_
-* _format_
+* _something
+_
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
