@@ -1,0 +1,29 @@
+h1 {
+  color: Grey;
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.color {
+  color: #C0C0C0;
+  font-style: italic;
+}
+
+.BBQ {
+  color: #BB8FCE;
+  font-style: normal;
+}
